@@ -2,7 +2,7 @@
     "updates": {
         "windows": {
             "open-url": "",
-            "latest-version": "1.0",
+            "latest-version": "3.0",
             "download-url": "https://deyesjj.oss-cn-qingdao.aliyuncs.com/faceimages/update.zip",
             "changelog": "This is an example changelog for Windows. Go on...",
             "mandatory": true
