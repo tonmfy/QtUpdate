@@ -2,8 +2,8 @@
     "updates": {
         "windows": {
             "open-url": "",
-            "latest-version": "1.1",
-            "download-url": "https://raw.githubusercontent.com/tonmfy/QtUpdate/tree/master/download/windows/exe",
+            "latest-version": "1.0",
+            "download-url": "https://github.com/tonmfy/QtUpdate/tree/master/download/windows/exe",
             "changelog": "This is an example changelog for Windows. Go on...",
             "mandatory": true
         },
